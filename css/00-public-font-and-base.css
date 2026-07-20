@@ -1,0 +1,226 @@
+/* TAIF font system using packaged local Noto Naskh Arabic WOFF2 files. */
+
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-arabic-400-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:400;
+  font-display:swap;
+  unicode-range:U+0600-06FF,U+0750-077F,U+0870-089F,U+08A0-08FF,U+FB50-FDFF,U+FE70-FEFF,U+061C,U+200C-200F;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-arabic-500-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:500;
+  font-display:swap;
+  unicode-range:U+0600-06FF,U+0750-077F,U+0870-089F,U+08A0-08FF,U+FB50-FDFF,U+FE70-FEFF,U+061C,U+200C-200F;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-arabic-600-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:600;
+  font-display:swap;
+  unicode-range:U+0600-06FF,U+0750-077F,U+0870-089F,U+08A0-08FF,U+FB50-FDFF,U+FE70-FEFF,U+061C,U+200C-200F;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-arabic-700-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:700;
+  font-display:swap;
+  unicode-range:U+0600-06FF,U+0750-077F,U+0870-089F,U+08A0-08FF,U+FB50-FDFF,U+FE70-FEFF,U+061C,U+200C-200F;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-arabic-700-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:800;
+  font-display:swap;
+  unicode-range:U+0600-06FF,U+0750-077F,U+0870-089F,U+08A0-08FF,U+FB50-FDFF,U+FE70-FEFF,U+061C,U+200C-200F;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-arabic-700-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:900;
+  font-display:swap;
+  unicode-range:U+0600-06FF,U+0750-077F,U+0870-089F,U+08A0-08FF,U+FB50-FDFF,U+FE70-FEFF,U+061C,U+200C-200F;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-latin-400-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:400;
+  font-display:swap;
+  unicode-range:U+0000-00FF;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-latin-500-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:500;
+  font-display:swap;
+  unicode-range:U+0000-00FF;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-latin-600-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:600;
+  font-display:swap;
+  unicode-range:U+0000-00FF;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-latin-700-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:700;
+  font-display:swap;
+  unicode-range:U+0000-00FF;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-latin-700-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:800;
+  font-display:swap;
+  unicode-range:U+0000-00FF;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-latin-700-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:900;
+  font-display:swap;
+  unicode-range:U+0000-00FF;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-latin-ext-400-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:400;
+  font-display:swap;
+  unicode-range:U+0100-024F,U+1E00-1EFF;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-latin-ext-500-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:500;
+  font-display:swap;
+  unicode-range:U+0100-024F,U+1E00-1EFF;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-latin-ext-600-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:600;
+  font-display:swap;
+  unicode-range:U+0100-024F,U+1E00-1EFF;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-latin-ext-700-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:700;
+  font-display:swap;
+  unicode-range:U+0100-024F,U+1E00-1EFF;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-latin-ext-700-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:800;
+  font-display:swap;
+  unicode-range:U+0100-024F,U+1E00-1EFF;
+}
+@font-face{
+  font-family:"TAIF Noto Naskh Arabic";
+  src:url("../assets/fonts/noto-naskh-arabic/noto-naskh-arabic-latin-ext-700-normal.woff2") format("woff2");
+  font-style:normal;
+  font-weight:900;
+  font-display:swap;
+  unicode-range:U+0100-024F,U+1E00-1EFF;
+}
+
+:root{
+  --taif-font-family-brand:"TAIF Noto Naskh Arabic", "Noto Naskh Arabic", "Segoe UI", Tahoma, Arial, sans-serif;
+  --taif-font-family-display:var(--taif-font-family-brand);
+  --taif-font-family-ui:var(--taif-font-family-brand);
+  --taif-font-family-data:var(--taif-font-family-brand);
+  --taif-font-family:var(--taif-font-family-ui);
+}
+
+html{
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  text-rendering:geometricPrecision;
+}
+
+body,button,input,select,textarea,option,optgroup{
+  font-family:var(--taif-font-family-ui) !important;
+  font-synthesis-weight:auto;
+}
+
+input::placeholder,textarea::placeholder{
+  font-family:var(--taif-font-family-ui) !important;
+}
+
+:root{
+  --ink:#0f172a;
+  --taif-scrollbar-track:rgba(15,23,42,.08);
+  --taif-scrollbar-thumb:rgba(109,40,217,.45);
+}
+
+*{box-sizing:border-box}
+html{
+  width:100%;
+  height:100%;
+  margin:0;
+  padding:0;
+  direction:rtl;
+  -webkit-text-size-adjust:100%;
+  text-size-adjust:100%;
+}
+body{
+  width:100%;
+  height:100%;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+  background:#f8fafc;
+}
+.taif-public-price-app{
+  width:100vw;
+  height:100vh;
+  min-width:0;
+  min-height:0;
+}
+.taif-public-price-status{
+  position:fixed;
+  inset-inline-start:18px;
+  inset-block-end:18px;
+  z-index:9999;
+  max-width:min(78vw,420px);
+  padding:10px 14px;
+  border-radius:14px;
+  background:rgba(15,23,42,.9);
+  color:#fff;
+  font:700 12px/1.4 var(--taif-font-family);
+  box-shadow:0 12px 30px rgba(2,6,23,.24);
+  opacity:0;
+  transform:translateY(8px);
+  transition:opacity .18s ease, transform .18s ease;
+  pointer-events:none;
+}
+.taif-public-price-status.is-visible{opacity:1;transform:translateY(0);}
+
+/* Keep dynamically injected controls on the packaged font. */
+.taif-selection-guard-active,
+.taif-selection-guard-active *,
+.taif-public-price-app,
+.taif-public-price-app *{
+  font-family:var(--taif-font-family-ui) !important;
+}
